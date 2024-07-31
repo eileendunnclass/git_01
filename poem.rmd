@@ -1,7 +1,7 @@
 ---
 title: "git_01"
-author: "Math_116"
-date: "Fall semester"
+author: "Eileen Dunn"  
+date: "Summer 2024"  
 output: html_document
 ---
 
@@ -16,11 +16,71 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
+A boat beneath a sunny sky,  
+Lingering onward dreamily  
+In an evening of July —  
+
+Children three that nestle near,  
+Eager eye and willing ear,  
+Pleased a simple tale to hear —  
+
+Long has paled that sunny sky:  
+Echoes fade and memories die:  
+Autumn frosts have slain July.  
+
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+
+I have been one acquainted with the night.  
+I have walked out in rain—and back in rain.  
+I have outwalked the furthest city light.  
+
+I have looked down the saddest city lane.  
+I have passed by the watchman on his beat
+And dropped my eyes, unwilling to explain.  
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
+"The sun was shining on the sea,  
+      Shining with all his might:  
+He did his very best to make  
+      The billows smooth and bright —  
+And this was odd, because it was  
+      The middle of the night.  
+
+The moon was shining sulkily,  
+      Because she thought the sun  
+Had got no business to be there  
+      After the day was done —  
+"It's very rude of him," she said,  
+      "To come and spoil the fun."  
+
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
+
+
+Beneath the sky, a story starts anew,  
+A boy and girl with hearts sincere and true.  
+In a meadow where the wildflowers bloom,  
+They met one day, dispelling all their gloom.  
+
+His eyes, a shade of summer's deepest blue,  
+Her smile, a sunrise breaking through the dew.  
+Their paths converged as if by fate's design,  
+Two souls entwined, their futures to align.  
+
+From nervous greetings, blossoms friendship's charm,  
+Their laughter echoed, free from fear or harm.  
+Through whispered secrets, dreams began to weave,  
+A tapestry of love they'd soon believe.  
+
+Hand in hand, they wandered through the days,  
+Each moment cherished, love in every gaze.  
+From first hello to vows they soon would share,  
+A journey filled with tenderness and care.  
+
+The boy, now groom, with joy upon his face,  
+The girl, his bride, in white and satin lace.  
+Beneath an arch of roses, they now stand,  
+With rings to bind, and love to hold their hand  
